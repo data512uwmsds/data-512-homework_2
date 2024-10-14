@@ -82,3 +82,7 @@ Select "Run All".
 The notebook will query the data for the specified articles, generate the datasets, and store the output files as described in the [Output Data Files](#output-data-files) section.
 
 ## Research Implications
+From my findings, I was surprised to find that countries with large populations, such as China and India, have notably low coverage on English Wikipedia. This might to stem from China’s reliance on its own news platforms, which provide information that is more relevant and reliable for its citizens, suggesting a gap between global and local narratives. 
+
+From my analysis, regions in Europe, America, and Oceania demonstrates higher coverage and quality in Wikipedia articles. This is expected, given that we are primarily examining an English-language platform. Interestingly, smaller countries with strong international ties, like Luxembourg, show high articles per capita and quality coverage, revealing a bias towards global visibility rather than population size. This reinforces that English Wikipedia favors English-speaking countries, indicating that it may not accurately represent global media creation and digital infrastructure. I believe researchers should consider supplementing their datasets with sources in other languages or from different platforms that might better capture the nuances of each country’s media landscape.
+
